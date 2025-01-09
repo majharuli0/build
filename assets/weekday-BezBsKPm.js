@@ -1,1 +1,0 @@
-import{g as u,O as p}from"./index-C-3yAPic.js";var s={exports:{}};(function(n,d){(function(i,t){n.exports=t()})(p,function(){return function(i,t){t.prototype.weekday=function(o){var a=this.$locale().weekStart||0,e=this.$W,r=(e<a?e+7:e)-a;return this.$utils().u(o)?r:this.subtract(r,"day").add(o,"day")}}})})(s);var c=s.exports;const x=u(c);export{c as a,x as w};
