@@ -1,0 +1,1 @@
+import{j as n}from"./index-CLCamRgM.js";function c({children:o,onClick:r}){const e=()=>{r&&r()};return n.jsx("div",{onClick:()=>e(),className:" hover:bg-onBackWarring  cursor-pointer h-[40px] pl-[20px] pr-[20px]  rounded-[20px] bg-cblock   flex items-center ",children:o})}export{c as B};
