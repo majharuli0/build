@@ -1,0 +1,2 @@
+import{z as d}from"./index-CH_40pe4.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="853bfdc7-d18c-4793-87a3-99ca778b1c22",e._sentryDebugIdIdentifier="sentry-dbid-853bfdc7-d18c-4793-87a3-99ca778b1c22")}catch{}const o=d.createContext();export{o as C};
+//# sourceMappingURL=UseCustomContext-xPEkmNco.js.map
