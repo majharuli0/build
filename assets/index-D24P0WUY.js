@@ -1,2 +1,0 @@
-import{r as d,a1 as n,j as s}from"./index-DrfFrwDA.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="29a10506-e500-4008-9f94-a64cf12d08d4",e._sentryDebugIdIdentifier="sentry-dbid-29a10506-e500-4008-9f94-a64cf12d08d4")}catch{}const f=()=>(d.useContext(n),s.jsx("div",{className:"w-full h-full flex  justify-center",children:"404"}));export{f as default};
-//# sourceMappingURL=index-D24P0WUY.js.map
