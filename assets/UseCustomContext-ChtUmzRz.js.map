@@ -1,1 +1,0 @@
-{"version":3,"file":"UseCustomContext-ChtUmzRz.js","sources":["../../src/Context/UseCustomContext.js"],"sourcesContent":["import React from \"react\";\r\n\r\nexport const CustomContext = React.createContext();\r\n"],"names":["CustomContext","React"],"mappings":"kXAEa,MAAAA,EAAgBC,EAAM,cAAc"}
