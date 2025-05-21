@@ -1,0 +1,2 @@
+import{aA as n}from"./index-BJTR4kR_.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="25984345-e358-436f-891a-01c84afa5831",e._sentryDebugIdIdentifier="sentry-dbid-25984345-e358-436f-891a-01c84afa5831")}catch{}const a=n.createContext();export{a as C};
+//# sourceMappingURL=UseCustomContext-zzHd-4Kj.js.map
