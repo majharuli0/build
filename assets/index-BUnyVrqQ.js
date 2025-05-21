@@ -1,2 +1,0 @@
-import{fH as n,fI as s,fJ as f}from"./index-BJTR4kR_.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},d=new e.Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="468da3bd-4b9a-4f4a-8253-221dc993a369",e._sentryDebugIdIdentifier="sentry-dbid-468da3bd-4b9a-4f4a-8253-221dc993a369")}catch{}const a=n;a.Dragger=s;a.LIST_IGNORE=f;export{a as U};
-//# sourceMappingURL=index-BUnyVrqQ.js.map
