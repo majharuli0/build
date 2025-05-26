@@ -1,0 +1,2 @@
+import{aJ as n}from"./index-CnZYSSOF.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="819928f7-09bd-4ee8-a13f-a30eef444157",e._sentryDebugIdIdentifier="sentry-dbid-819928f7-09bd-4ee8-a13f-a30eef444157")}catch{}const f=n.createContext();export{f as C};
+//# sourceMappingURL=UseCustomContext-BhgaKMIb.js.map
