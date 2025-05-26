@@ -1,2 +1,0 @@
-import{aG as d}from"./index-DJPLPkhr.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="50e07374-7799-47f7-a5e7-dfe75b9bdcb5",e._sentryDebugIdIdentifier="sentry-dbid-50e07374-7799-47f7-a5e7-dfe75b9bdcb5")}catch{}const o=d.createContext();export{o as C};
-//# sourceMappingURL=UseCustomContext-C_RoMH9_.js.map
