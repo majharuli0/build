@@ -1,0 +1,2 @@
+import{r as n,S as s,j as d}from"./index-CfjQrexR.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="98374705-577e-4bbb-8d32-b4a587a3f6f0",e._sentryDebugIdIdentifier="sentry-dbid-98374705-577e-4bbb-8d32-b4a587a3f6f0")}catch{}const f=()=>(n.useContext(s),d.jsx("div",{className:"w-full h-full flex  justify-center",children:"404"}));export{f as default};
+//# sourceMappingURL=index-XPn0-r-T.js.map
