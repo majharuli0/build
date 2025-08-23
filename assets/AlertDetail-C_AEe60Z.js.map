@@ -1,0 +1,1 @@
+{"version":3,"file":"AlertDetail-C_AEe60Z.js","sources":["../../src/Pages/Alerts/AlertDetail.jsx"],"sourcesContent":["import React from \"react\";\n\nexport default function AlertDetail() {\n  return <div>AlertDetail</div>;\n}\n"],"names":["AlertDetail","jsx"],"mappings":"iXAEA,SAAwBA,GAAc,CACpC,OAAOC,EAAAA,IAAC,OAAI,SAAA,aAAA,CAAW,CACzB"}
