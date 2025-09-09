@@ -1,0 +1,2 @@
+import{j as n}from"./index-DCufaEoq.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="ae57149b-4677-470c-a853-953d94e59aca",e._sentryDebugIdIdentifier="sentry-dbid-ae57149b-4677-470c-a853-953d94e59aca")}catch{}function a(){return n.jsx("div",{children:"AlertDetail"})}export{a as default};
+//# sourceMappingURL=AlertDetail-DE67Go5Q.js.map
