@@ -1,1 +1,0 @@
-{"version":3,"file":"AlertDetail-DE67Go5Q.js","sources":["../../src/Pages/Alerts/AlertDetail.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function AlertDetail() {\r\n  return <div>AlertDetail</div>;\r\n}\r\n"],"names":["AlertDetail","jsx"],"mappings":"iXAEA,SAAwBA,GAAc,CACpC,OAAOC,EAAAA,IAAC,OAAI,SAAA,aAAA,CAAW,CACzB"}
